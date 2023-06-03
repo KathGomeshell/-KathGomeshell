@@ -1,25 +1,41 @@
-<h1 align="center">Hi 👋, I'm Kath Gomes</h1>
-<h3 align="center">💻 A creative fullstack developer</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=f0f0FF" />
 
-- 🍹I am currently working as **bartender and frellancer attendant**
 
-- 📔The moment I'm learning **HTML - CSS - JS**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=85ADD4&background=49A44E00&width=435&lines=Ol%C3%A1%2C+me+chamo+Kath.;Seja+muito+bem-vindo!;Futuro+Desenvolvedora+Front End)](https://git.io/typing-svg)
+<br>
+<div>
+ <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=wesley278&show_icons=true&theme=react" />
+   <img align="right" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley278&layout=compact&langs_count=16&theme=react"/>
+</div>
+<br>
 
-- 💀 I’m looking to collaborate on **I intend to collaborate with game development, work in the area of ​​ux design and animation!**
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sioqgm9kbxfqxu40ma8rjjii0f2ljo10y5898hfg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+    <h1 align="center">Tecnologias</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="figma-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px"  /> 
+  
+   </div>
+    
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: Katlheenkg@mail.com">
+      <img width="30" src="https://th.bing.com/th/id/R.229079c8f5240851cece598cf8eee770?rik=JND2PKmC%2fxzB1w&riu=http%3a%2f%2fpngimg.com%2fuploads%2femail%2femail_PNG11.png&ehk=6sNwAjueFilXp3tCehLPbXDGgZgsYZdR7y6dZ3vpSk4%3d&risl=&pid=ImgRaw&r=0">
+    </a>
+    <a href = "https://">
+      <img width="40" src="https://myclouddoor.com/wp-content/uploads/2019/11/Linkedin-logo.png">
+    </a>
+    <a href = "https://">
+      <img width="25" src="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente.png?fit=696%2C696&ssl=1">
+    </a>
+</div>
+  
+![Snake animation](https://github.com/)
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=f0f0FF&section=footer" />
 
-- 📫 How to reach me **Katlheenkg@gmail.com**
-
-- ⚡ Fun fact **I enjoy all forms of art and psychology.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kath-gomes-3220a61b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kath-gomes-3220a61b5" height="30" width="40" /></a>
-<a href="https://instagram.com/kath_hell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kath_hell" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathgomeshell&show_icons=true&locale=en&layout=compact" alt="kathgomeshell" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathgomeshell&show_icons=true&locale=en" alt="kathgomeshell" /></p>
