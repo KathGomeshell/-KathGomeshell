@@ -25,4 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathgomeshell&show_icons=true&locale=en" alt="kathgomeshell" /></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=f0f0FF&section=footer" />
+![Snake animation](https://github.com/wesley278/wesley278/blob/output/github-contribution-grid-snake.svg)
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=f0f0FF&section=footer" />
