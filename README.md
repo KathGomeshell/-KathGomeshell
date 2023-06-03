@@ -3,7 +3,7 @@
 
 - 🍹I am currently working as **bartender and frellancer attendant**
 
-- 📔The moment I'm learning **HTML - CSS - JS - React**
+- 📔The moment I'm learning **HTML - CSS - JS - React - Java**
 
 - 💀 I’m looking to collaborate on **I intend to collaborate with game development, work in the area of ​​ux design and animation!**
 
