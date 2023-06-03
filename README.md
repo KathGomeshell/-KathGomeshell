@@ -24,7 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathgomeshell&show_icons=true&locale=en&layout=compact" alt="kathgomeshell" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathgomeshell&show_icons=true&locale=en" alt="kathgomeshell" /></p>
-
+<img align="left" height="250" alt="coding-time" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sioqgm9kbxfqxu40ma8rjjii0f2ljo10y5898hfg&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 ![Snake animation](https://github.com/wesley278/wesley278/blob/output/github-contribution-grid-snake.svg)
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=f0f0FF&section=footer" />
