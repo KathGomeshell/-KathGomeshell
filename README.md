@@ -23,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathgomeshell&show_icons=true&locale=en&layout=compact" alt="kathgomeshell" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathgomeshell&show_icons=true&locale=en" alt="kathgomeshell" /></p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=f0f0FF&section=footer" />
