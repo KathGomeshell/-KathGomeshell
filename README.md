@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=f0f0FF" />
 <h1 align="center">Hi 👋, I'm Kath Gomes</h1>
 <h3 align="center">💻 A creative fullstack developer</h3>
 
