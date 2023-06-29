@@ -1,7 +1,7 @@
 <h1 align="center">Seja bem vindos Kath</h1>
 <h3 align="center">Desenvolvedora Front end e futura GameDev...</h3>
 
-- Como chegar até mim 📫 **email:katlheenkg@gmail .com**
+- Como chegar até mim 📫  **email: katlheenkg@gmail.com**
 
 - Estou procurando colaborar **Comprojetos que expanda a minha criatividade!**
 
