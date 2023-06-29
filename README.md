@@ -3,7 +3,7 @@
 
 - Como chegar até mim 📫  **email: katlheenkg@gmail.com**
 
-- Estou procurando colaborar **Comprojetos que expanda a minha criatividade!**
+- Estou procurando colaborar **Em projetos que expanda a minha criatividade!**
 
 - Atualmente estou aprendendo **Java**
 
