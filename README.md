@@ -1,11 +1,7 @@
 <h1 align="center">Seja bem vindos Kath</h1>
 <h3 align="center">Desenvolvedora Front end e futura GameDev...</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=kathgomeshell&label=Profile%20views&color=0e75b6&style=flat" alt="kathgomeshell" /> </p>
-
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathgomeshell" alt="kathgomeshell" /></a > </p>
-
-- Como chegar até mim 📫 **email:katlheenkg@gmail.com**
+- Como chegar até mim 📫 **email:katlheenkg@gmail .com**
 
 - Estou procurando colaborar **Comprojetos que expanda a minha criatividade!**
 
@@ -13,7 +9,7 @@
 
 - Curiosidade ⚡ **Facisnada por Arte e Pscologia!**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect comigo:</h3>
 <p align="left">
 </p>
 
