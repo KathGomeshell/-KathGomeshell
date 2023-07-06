@@ -1,6 +1,5 @@
 <h1 align="center">Seja bem vindos Kath</h1>
-<h2 align="center"> Player 1  Kath</h2>
-<h3 align="center">Desenvolvedora Front end e futura GameDev...</h3>
+<h2 align="center">Desenvolvedora Front end e futura GameDev...</h2>
 
 - Como chegar até mim 📫  **email: katlheenkg@gmail.com**
 
