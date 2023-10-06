@@ -1,21 +1,34 @@
-<h1 align="center">Seja bem vindos Kath</h1>
-<h2 align="center">Desenvolvedora Front end e futura Desenvolvedora Fullstack e GameDev...</h2>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-- Como chegar até mim 📫  **email: katlheenkg@gmail.com**
+<h1>
+    <a href="https://github.com/KathGomeshell">
+     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+    <span>Kath Gomes </span>
+</h1>
 
-- Estou procurando colaborar **Em projetos que expanda a minha criatividade!**
+<p align="justify">Front-end Developer from SãoPaulo-SP, Brazil, I completed a recent fullsatck java programming course. My first “Hello World” was when I had contact with HTML, CSS and a little JavaScript and React, on the Intituto PROA course.
+<br>
+ Passionate about arts and technology, some of my hobbies are gaming, watching and reading. <a href="https://www.instagram.com/kathhell/">(@Kath_hell)</a>.</p>
 
-- Atualmente estou aprendendo **Java**
+<h3 align="left">Connect with me</h3>
 
-- Curiosidade ⚡ **Facisnada por Arte e Pscologia!**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/elidianaandrade/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/elicosmaker/)
+[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/@casalfullstack)
 
-<h3 align="left">Connect comigo:</h3>
-<p align="left">
-</p>
+<h3 align="left">GitHub Stats</h3>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" altura ="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo. zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3. org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a > <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent. com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt=" linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p >svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </ um> </p>svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </ um> </p>svg" alt="react" width="40" height="40"/> </a> </p>svg" alt="react" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathgomeshell&show_icons=true&locale=en&layout=compact" alt="kathgomeshell" /> </p>
+<details align="left">
+  <summary></summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+ 
+  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kathgomeshell&show_icons=true&locale=en" alt="kathgomeshell" /> </p>
+</details>
