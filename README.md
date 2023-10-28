@@ -8,7 +8,7 @@
 
 <p align="justify">Front-end Developer from SãoPaulo-SP, Brazil, I completed a recent fullsatck java programming course. My first “Hello World” was when I had contact with HTML, CSS and a little JavaScript and React, on the Intituto PROA course.
 <br>
- Passionate about arts and technology, some of my hobbies are gaming, watching and reading. <a href="https://www.instagram.com/kathhell/">(@Kath_hell)</a>.</p>
+ Passionate about arts and technology, some of my hobbies are gaming, watching and reading./p>
 
 <h3 align="left">Connect with me</h3>
 
